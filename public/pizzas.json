@@ -1,0 +1,66 @@
+[
+  {
+    "desc": "La pizza napolitana, de masa tierna y delgada pero bordes altos, es la versión propia de la cocina napolitana de la pizza redonda. El término pizza napoletana, por su importancia histórica o regional, se emplea en algunas zonas como sinónimo de pizza tonda.",
+    "id": "P001",
+    "img": "https://cdn.papajohns.cl/thumbnails/pizzas/italiana_1691160148_medium_1696353025_extra_large.jpg",
+    "ingredients": ["Orégano", "Salchicha italiana", "Aceituna negra", "Champiñones", "Queso mozzarella"],
+    "name": "Italiana",
+    "price": 5950
+  },
+  {
+    "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
+    "id": "P002",
+    "img": "https://cdn.papajohns.cl/thumbnails/pizzas/chickengarlic_1691160234_medium_1696353266_extra_large.jpg",
+    "ingredients": ["Extra salsa", "Pollo grillado", "Salsa garlic", "Queso parmesano", "Queso romano"],
+    "name": "Pollo garlic",
+    "price": 9800
+  },
+  {
+    "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
+    "id": "P003",
+    "img": "https://cdn.papajohns.cl/thumbnails/pizzas/canadianbacon_1691160289_medium_1696353578_extra_large.jpg",
+    "ingredients": ["Queso mozzarella", "Lomito canadiense", "Tocino", "Queso parmesano", "Queso romano"],
+    "name": "Canadian bacon",
+    "price": 8500
+  },
+  {
+    "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
+    "id": "P004",
+    "img": "https://cdn.papajohns.cl/thumbnails/pizzas/vegetariana_1691160093_medium_1696352858_extra_large.jpg",
+    "ingredients": ["Queso mozzarella", "Cebolla", "Pimenton verde", "champiñones", "Tomate"],
+    "name": "Vegetariana",
+    "price": 17000
+  },
+  {
+    "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
+    "id": "P005",
+    "img": "https://cdn.papajohns.cl/thumbnails/pizzas/mechadaluco_1691160426_medium_1696354098_extra_large.jpg",
+    "ingredients": ["Doble porcion de mechada", "Queso mozzarella", "Queso parmesano", "Queso romano", "Orégano"],
+    "name": "Mechada luco",
+    "price": 10000
+  },
+  {
+    "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
+    "id": "P006",
+    "img": "https://cdn.papajohns.cl/thumbnails/pizzas/todaslascarnes_1691160121_medium_1696352966_extra_large.jpg",
+    "ingredients": ["Queso mozzarella", "pepperoni", "tocino", "jamon","Salchicha italiana"],
+    "name": "Todas las carnes",
+    "price": 15000
+  },
+  {
+    "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
+    "id": "P007",
+    "img": "https://cdn.papajohns.cl/thumbnails/pizzas/hawaiana_1691160205_medium_1696353193_extra_large.jpg",
+    "ingredients": ["mozzarella", "piña", "jamon", "extra queso","champiñones"],
+    "name": "Hawaiana",
+    "price": 9500
+  },
+  {
+    "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
+    "id": "P008",
+    "img": "https://cdn.papajohns.cl/thumbnails/pizzas/pollobbq_1691160070_medium_1696352650_extra_large.jpg",
+    "ingredients": ["Queso", "Salsa BBQ", "pollo", "Tocino", "Cebolla morada"],
+    "name": "pollo BBQ",
+    "price": 10000
+  }
+]
